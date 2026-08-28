@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "store-of-scope": {
+      "type": "http",
+      "url": "https://u-asad-40a49c0d.cloud.noodleseed.dev/store-of-scope/v1/mcp"
+    }
+  }
+}

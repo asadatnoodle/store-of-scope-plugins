@@ -1,0 +1,37 @@
+{
+  "name": "store-of-scope",
+  "version": "0.1.0",
+  "description": "Turn newsletters into an organized archive, concise reading editions, and a recurring reading habit.",
+  "author": {
+    "name": "Noodle Seed"
+  },
+  "keywords": [
+    "newsletter",
+    "gmail",
+    "reading",
+    "productivity"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Store of Scope",
+    "shortDescription": "Turn newsletters into a reading system.",
+    "longDescription": "Organize configured Gmail newsletters into an auditable archive, concise reading editions, and an approval-gated reading schedule.",
+    "developerName": "Noodle Seed",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write",
+      "Scheduled"
+    ],
+    "defaultPrompt": [
+      "Set up Store of Scope.",
+      "Run today's newsletter workflow.",
+      "Show my Store of Scope status."
+    ],
+    "brandColor": "#1677FF",
+    "composerIcon": "./assets/logo-store-of-scope.svg",
+    "logo": "./assets/logo-store-of-scope.svg",
+    "logoDark": "./assets/logo-store-of-scope.svg"
+  },
+  "mcpServers": "./.mcp.json"
+}

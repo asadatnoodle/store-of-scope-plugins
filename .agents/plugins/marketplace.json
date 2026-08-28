@@ -1,0 +1,26 @@
+{
+  "name": "store-of-scope",
+  "interface": {
+    "displayName": "Store of Scope"
+  },
+  "plugins": [
+    {
+      "name": "store-of-scope",
+      "description": "Turn newsletters into an organized archive, concise reading editions, and a recurring reading habit.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Noodle Seed"
+      },
+      "homepage": "https://storeofscope.com",
+      "source": {
+        "source": "local",
+        "path": "./plugins/store-of-scope"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
