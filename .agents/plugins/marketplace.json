@@ -21,6 +21,24 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Productivity"
+    },
+    {
+      "name": "meta-ads-workflow",
+      "description": "Prepare branded creative and paused Meta campaigns in Codex with your own company context.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Asad / Store of Scope"
+      },
+      "homepage": "https://storeofscope.com/skills/meta-ads-workflow/",
+      "source": {
+        "source": "local",
+        "path": "./plugins/meta-ads-workflow"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     }
   ]
 }

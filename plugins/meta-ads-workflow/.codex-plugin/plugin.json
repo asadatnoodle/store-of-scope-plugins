@@ -1,0 +1,29 @@
+{
+  "name": "meta-ads-workflow",
+  "version": "1.0.0",
+  "description": "Plan branded creative and reviewable Meta campaigns in Codex using your company context and Meta\u2019s official Ads MCP.",
+  "author": {
+    "name": "Asad / Store of Scope"
+  },
+  "skills": "./skills/",
+  "keywords": [
+    "meta-ads",
+    "marketing",
+    "campaigns",
+    "codex",
+    "mcp"
+  ],
+  "interface": {
+    "displayName": "Meta Ads Workflow",
+    "shortDescription": "From company brief to a campaign you can review.",
+    "longDescription": "Bring your brand system, prepare creative and experiments, connect your own Meta account, create paused campaigns and report with clear evidence. Includes setup guidance, templates and a worked example.",
+    "developerName": "Store of Scope",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Plan a Meta campaign using my company\u2019s brand system.",
+      "Prepare paused Meta campaign variants for review.",
+      "Report on my experimental Meta campaigns."
+    ]
+  }
+}
